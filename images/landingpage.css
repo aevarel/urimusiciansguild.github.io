@@ -1,0 +1,132 @@
+.perfect {
+	FONT: 12px arial, geneva, sans-serif
+}
+A.perfect:link {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.perfect:visited {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.perfect:hover {
+	COLOR: #e91f1f; TEXT-DECORATION: none
+}
+A.perfect:active {
+	
+}
+.perfectsmall {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+A.perfectsmall:link {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.perfectsmall:visited {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+A.perfectsmall:hover {
+	COLOR: #e91f1f; TEXT-DECORATION: none
+}
+A.perfectsmall:active {
+	
+}
+.perfectcategory {
+	FONT: bold 15px/13px arial, geneva, sans-serif; TEXT-DECORATION: none
+}
+A.perfectcategory:link {
+	COLOR: #0000ff
+}
+A.perfectcategory:visited {
+	COLOR: #660099
+}
+A.perfectcategory:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.perfectcategory:active {
+	
+}
+.perfectfooter {
+	FONT: 12px arial, geneva, sans-serif
+}
+A.perfectfooter:link {
+	COLOR: #bbc2e3; TEXT-DECORATION: none
+}
+A.perfectfooter:visited {
+	COLOR: #b0b0c8; TEXT-DECORATION: none
+}
+A.perfectfooter:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.perfectfooter:active {
+	FONT-FAMILY: COLOR
+}
+.textsmall {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.textsmall:link {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.textsmall:visited {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.textsmall:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.textsmall:active {
+	FONT-FAMILY: COLOR
+}
+BODY {
+	scrollbar-face-color: #212452; scrollbar-shadow-color: black; scrollbar-highlight-color: B8B8DE; scrollbar-3dlight-color: black; scrollbar-darkshadow-color: #452552; scrollbar-track-color: #DEDFE7; scrollbar-arrow-color: #ffce00
+}
+.header {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.title {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13pt; FONT-WEIGHT: bold; LETTER-SPACING: 1pt
+}
+.leadin {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.footerheader {
+	COLOR: #e1e1ea; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.footernasdaq {
+	COLOR: #e1e1ea; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.login {
+	BACKGROUND-COLOR: #e1e1e9; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; COLOR: #0000ff; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 10pt
+}
+.bodytext {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}
+.bodytitle {
+	COLOR: #9c0000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.bodyhilite {
+	COLOR: #212452; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.bodyleadin {
+	COLOR: #212452; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-WEIGHT: bold
+}
+.bodyimportant {
+	COLOR: #339933; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.texthelp {
+	COLOR: #b52829; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+.signuptitle {
+	COLOR: #b52829; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.signuptitlenon {
+	COLOR: #846d5a; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.signupinfo {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.title2 {
+	COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.homeleadin {
+	COLOR: #212452; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-STYLE: normal; FONT-WEIGHT: bold
+}
+.hometext {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
